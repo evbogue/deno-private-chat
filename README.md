@@ -1,6 +1,6 @@
 ### secure and/or private chat with Deno
 
-In this example we us ed2curve to send private messages between ed25519 keypairs.
+In this example we use ed2curve to send private messages between ed25519 keypairs.
 
 The message protocol is the same as the one used by [bogbook](https://github.com/evbogue/bogbook).
 
